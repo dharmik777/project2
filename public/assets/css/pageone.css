@@ -1,0 +1,46 @@
+body {
+
+    background-image: url(../images/basket.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+ 
+}
+
+.col {
+    text-align: center;
+}
+
+#crest {
+    height: 95%;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+#ball {
+    height: 150px;
+    margin-top: -800px;
+}
+
+form { 
+   text-align: center;
+}
+
+label {
+    color: white;
+}
+
+
+  button  {
+    display:block;
+    background-image: url(../images/texture.jpg);
+    background-size: contain;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin: auto;
+    font-weight: bold;
+  }
+
